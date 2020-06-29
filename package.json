@@ -1,0 +1,19 @@
+{
+  "name": "book-list-project",
+  "version": "1.0.0",
+  "description": "book list created with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuvallo/book-list-project.git"
+  },
+  "author": "Tyler Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuvallo/book-list-project/issues"
+  },
+  "homepage": "https://github.com/nuvallo/book-list-project#readme"
+}
